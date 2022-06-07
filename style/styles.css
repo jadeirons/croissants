@@ -3,6 +3,15 @@ body {
 }
 
 h1,
-p {
+p,
+a {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
+
+.links {
   text-align: center;
 }
